@@ -5,7 +5,7 @@ JSON-based View Controller Templating Engine for iOS 9 written in Swift. This re
 
 #####XCode 7 (latest update) on El Capitan. Apple Developer License.
 
-You should have a working understanding of basic variables, arrays, loops, and so forth. If not, consult the playground files that have been added to help assist you in quickly getting up to speed. Each app will be increasingly more complex. Some samples will be posted onto the App Store for trial on your personal device.
+You should have a working understanding of basic variables, arrays, loops, and so forth. If not, consult the playground files that have been added to the [Example Swift Apps repo](https://github.com/TheDarkCode/Example-Swift-Apps) to help assist you in quickly getting up to speed.
 
 ##Related Projects:
 
@@ -16,6 +16,10 @@ Collection of example applications written in Swift / Objective-C for iOS 9.x (d
 ###azure-search-ios by Mark Hamilton, Dryverless
 Modular SDK written in Swift 2 that simplifies incorporating Azure Search into native iOS applications for iPhones and iPads. Requires Whole Module Optimization to be enabled for best performance. Non-commercial use only.
 ######https://github.com/TheDarkCode/azure-search-ios
+
+##Go from Zero to Professional:
+
+#####Please visit [Devslopes.com](http://www.devslopes.com) for more information regarding courses on learning Swift for iOS 9, tvOS, and more. It's never too late to start learning a new language!
 
 ##Support:
 
